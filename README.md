@@ -1,4 +1,3 @@
 # csstut
-<br>
-first git repository. learning css
+first git repository. learning css<br>
 Author - Aman Shrivastava
